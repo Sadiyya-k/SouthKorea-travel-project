@@ -77,6 +77,11 @@ section {
   background: #181525;
 }
 
+section .title {
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
 header {
   background-image: linear-gradient(
       rgba(39, 32, 68, 0.6),
